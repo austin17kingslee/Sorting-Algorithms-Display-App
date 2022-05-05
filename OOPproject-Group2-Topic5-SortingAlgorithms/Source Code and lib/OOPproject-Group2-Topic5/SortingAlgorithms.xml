@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ACER\Desktop\OOPproject-Group2-Topic5\src\out\artifacts\OOPproject_Group2_Topic5\OOPproject_Group2_Topic5.jar</jar>
+  <outfile>C:\Users\ACER\Desktop\OOPproject-Group2-Topic5\src\out\artifacts\OOPproject_Group2_Topic5\Sorting Alogrithms.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <opt>--module-path &quot;F:\Hoc Tap\20202\OOP\openjfx-16_windows-x64_bin-sdk\javafx-sdk-16\lib&quot; --add-modules=javafx.controls,javafx.fxml</opt>
+  </jre>
+</launch4jConfig>
